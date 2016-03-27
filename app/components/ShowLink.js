@@ -1,18 +1,19 @@
 import React, {Component, PropTypes, WebView} from 'react-native'
+import styles from '../styles/ShowLink';
 
 class ShowLink extends Component {
   render() {
     const {link} = this.props;
-    console.log('--------------render',link)
+
+    console.log('---', this.props)
 
     return (
       <WebView
-          automaticallyAdjustContentInsets={false}
-          startInLoadingState={true}
-          source={{uri: link.url}}
-          style={{flex: 1, height: 500}}
-          />
-
+        automaticallyAdjustContentInsets={true}
+        startInLoadingState={true}
+        source={{uri: link.url}}
+        style={styles.container}
+        />
     )
   }
 }

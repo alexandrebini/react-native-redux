@@ -10,26 +10,16 @@ class ShowLinkContainer extends Component {
     dispatch(getLink(link_id))
   }
 
-  componentWillUpdate(nextProps, nextState) {
-    const {link} = nextProps
-    // Actions.refresh({ title: link.title })
-  }
+  // componentWillReceiveProps(nextProps) {
+  //   const {link} = nextProps
+  //   Actions.refresh({ title: link.title })
+  // }
 
   render() {
     const {link} = this.props;
 
-    // console.log('render show link container', this.props)
     return (
-      <View>
-        <Text>AAAAAAAAAAAAAAAAAAA</Text>
-        <Text>AAAAAAAAAAAAAAAAAAA</Text>
-        <Text>AAAAAAAAAAAAAAAAAAA</Text>
-        <Text>AAAAAAAAAAAAAAAAAAA</Text>
-        <Text>AAAAAAAAAAAAAAAAAAA</Text>
-        <Text>AAAAAAAAAAAAAAAAAAA</Text>
-        <Text>{link.title}</Text>
-        <ShowLink link={link} />
-      </View>
+      <ShowLink link={link} />
     )
   }
 }

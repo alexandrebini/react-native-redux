@@ -1,16 +1,14 @@
 'use strict';
 
-import React, {Component, Navigator, View, Text} from 'react-native';
+import React, {Component, Navigator, View, Text, TouchableOpacity} from 'react-native';
 import {Provider} from 'react-redux';
 import configureStore from '../store/configureStore';
 import styles from '../styles/App';
 import LinkListContainer from './LinkListContainer';
 import ShowLinkContainer from './ShowLinkContainer';
-import {getLinks} from '../actions/LinkActions'
 import {Actions, Scene, Router, Reducer} from 'react-native-router-flux';
 
 const store = configureStore();
-store.dispatch(getLinks())
 
 const reducerCreate = params=>{
     const defaultReducer = Reducer(params);
@@ -20,6 +18,17 @@ const reducerCreate = params=>{
     }
 };
 
+class ARightBtn extends React.Component {
+  render(){
+    return (
+        <TouchableOpacity >
+            <Image />
+            <Text>foo</Text>
+        </TouchableOpacity>
+    )
+  }
+}
+
 export default class App extends Component {
   render() {
     return (
@@ -27,7 +36,7 @@ export default class App extends Component {
         <View style={styles.container}>
           <Router createReducer={reducerCreate} >
             <Scene key="root">
-              <Scene key="login" component={LinkListContainer} hideNavBar={true}/>
+              <Scene key="linkList" component={LinkListContainer} renderRightButton={ARightBtn} title={'ff'}/*hideNavBar={true}*//>
               <Scene key="showLink" component={ShowLinkContainer} />
             </Scene>
           </Router>

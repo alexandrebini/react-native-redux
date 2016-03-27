@@ -1,12 +1,13 @@
 import React, {Component, PropTypes, ListView} from 'react-native'
 import Link from './Link'
+import styles from '../styles/LinkList';
 
 class LinkList extends Component {
   render() {
     const {dataSource} = this.props;
 
     return (
-      <ListView style={{flex:1}}
+      <ListView style={styles.container}
         dataSource={dataSource}
         renderRow={this.renderLink.bind(this)}
         removeClippedSubviews={true}

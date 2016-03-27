@@ -3,8 +3,14 @@ import LinkList from '../components/LinkList'
 import {connect} from 'react-redux';
 import styles from '../styles/Link';
 import {Actions} from 'react-native-router-flux'
+import {getLinks} from '../actions/LinkActions'
 
 class LinkListContainer extends Component {
+  componentDidMount() {
+    const {dispatch} = this.props
+    dispatch(getLinks())
+  }
+
   render() {
     const {links} = this.props;
 
@@ -22,7 +28,7 @@ class LinkListContainer extends Component {
   }
 
   onPress(link) {
-    Actions.showLink({ link_id: link.id })
+    Actions.showLink({ link_id: link.id, title: link.title })
   }
 }
 
