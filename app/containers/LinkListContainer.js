@@ -6,25 +6,39 @@ import {Actions} from 'react-native-router-flux'
 import {getLinks} from '../actions/LinkActions'
 
 class LinkListContainer extends Component {
-  componentDidMount() {
-    const {dispatch} = this.props
-    dispatch(getLinks())
-  }
-
   render() {
-    const {links} = this.props;
-
+    const {links} = this.props
     return (
       <LinkList
         dataSource={this.dataSource(links)}
-        onPress={(link) => { this.onPress(link) }}
+        onPress={this.onPress.bind(this)}
         />
     )
   }
 
   dataSource(links) {
-    let ds = new ListView.DataSource({ rowHasChanged: (r1, r2) => r1 !== r2 })
-    return ds.cloneWithRows(links)
+    let ds = new ListView.DataSource({
+      rowHasChanged: (r1, r2) => r1 !== r2,
+      sectionHeaderHasChanged: (r1, r2) => r1 !== r2
+    })
+    let {rows, sections} = this.rowsAndSections(links)
+    return ds.cloneWithRowsAndSections(rows, sections)
+  }
+
+  rowsAndSections(links) {
+    let rows = {}
+    let sections = []
+
+    links.map((link) => {
+      let section = new Date(Date.parse(link.created_at)).toDateString()
+      if (sections.indexOf(section) === -1) {
+        sections.push(section)
+        rows[section] = []
+      }
+      rows[section].push(link)
+    });
+
+    return {rows, sections}
   }
 
   onPress(link) {
@@ -32,4 +46,5 @@ class LinkListContainer extends Component {
   }
 }
 
-export default connect(state => state.Links)(LinkListContainer)
+// export default connect(state => state.Links)(LinkListContainer)
+export default LinkListContainer

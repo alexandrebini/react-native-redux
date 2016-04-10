@@ -20,6 +20,7 @@ export default StyleSheet.create({
     flex: 0.75
   },
   title: {
+    color: '#191E25',
     fontSize: 20,
     marginBottom: 8,
     flex: 1,

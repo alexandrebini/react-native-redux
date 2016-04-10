@@ -13,7 +13,7 @@ class Link extends Component {
             style={styles.thumbnail} />
           <View style={styles.content}>
             <Text style={styles.title}>{link.title}</Text>
-            <Text style={styles.description}>{link.description}</Text>
+            <Text style={styles.description} numberOfLines={2}>{link.description}</Text>
           </View>
         </View>
       </TouchableHighlight>
@@ -23,7 +23,7 @@ class Link extends Component {
 
 Link.propTypes = {
   link: PropTypes.shape({
-    title: PropTypes.string.isRequired,
+    title: PropTypes.string.isOptional,
     coverUrl: PropTypes.string.isOptional,
     description: PropTypes.string.isOptional,
   }).isRequired,

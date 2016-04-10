@@ -5,8 +5,6 @@ class ShowLink extends Component {
   render() {
     const {link} = this.props;
 
-    console.log('---', this.props)
-
     return (
       <WebView
         automaticallyAdjustContentInsets={true}

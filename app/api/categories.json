@@ -1,0 +1,58 @@
+[
+  {
+    "id":2,
+    "name":"Good reads",
+    "position":1,
+    "created_at":"2016-03-23T10:37:33.135-03:00",
+    "updated_at":"2016-03-23T10:37:33.135-03:00",
+    "default":false
+  },
+  {
+    "id":8,
+    "name":"Social",
+    "position":4,
+    "created_at":"2016-03-23T14:53:57.695-03:00",
+    "updated_at":"2016-03-23T14:53:57.695-03:00",
+    "default":false
+  },
+  {
+    "id":5,
+    "name":"Cloud storage",
+    "position":5,
+    "created_at":"2016-03-23T10:38:38.351-03:00",
+    "updated_at":"2016-03-23T14:54:04.298-03:00",
+    "default":false
+  },
+  {
+    "id":6,
+    "name":"Tools",
+    "position":6,
+    "created_at":"2016-03-23T10:38:54.634-03:00",
+    "updated_at":"2016-03-23T14:54:13.071-03:00",
+    "default":false
+  },
+  {
+    "id":7,
+    "name":"Fun",
+    "position":7,
+    "created_at":"2016-03-23T10:38:59.560-03:00",
+    "updated_at":"2016-03-23T14:54:17.582-03:00",
+    "default":false
+  },
+  {
+    "id":4,
+    "name":"Audio and Video",
+    "position":3,
+    "created_at":"2016-03-23T10:38:12.018-03:00",
+    "updated_at":"2016-03-23T15:07:39.141-03:00",
+    "default":false
+  },
+  {
+    "id":3,
+    "name":"Miscellaneous",
+    "position":2,
+    "created_at":"2016-03-23T10:38:03.656-03:00",
+    "updated_at":"2016-03-23T15:29:08.132-03:00",
+    "default":false
+  }
+]
