@@ -29,15 +29,6 @@
     "category_id":6
   },
   {
-    "id":2461,
-    "title":null,
-    "description":null,
-    "cover_url":"http://res.cloudinary.com/paperbot/image/upload/n3dlabah1wdwtupffi7q",
-    "url":"https://dl.dropboxusercontent.com/spa/cw9bjiofgucuxs9/ch6i2vp3.png",
-    "created_at":"2016-04-08T13:33:17.493-03:00",
-    "category_id":5
-  },
-  {
     "id":2437,
     "title":"Slack",
     "description":null,
@@ -54,15 +45,6 @@
     "url":"http://finance.yahoo.com/news/trinet-acquires-teleborder-expands-services-130000074.html",
     "created_at":"2016-04-08T09:41:18.369-03:00",
     "category_id":null
-  },
-  {
-    "id":2407,
-    "title":null,
-    "description":null,
-    "cover_url":"http://res.cloudinary.com/paperbot/image/upload/sakvgf9r5aaqhzs1xsuu",
-    "url":"https://dl.dropboxusercontent.com/spa/cw9bjiofgucuxs9/14d-aspz.png",
-    "created_at":"2016-04-08T09:09:33.607-03:00",
-    "category_id":5
   },
   {
     "id":2351,
@@ -83,15 +65,6 @@
     "category_id":8
   },
   {
-    "id":2325,
-    "title":null,
-    "description":null,
-    "cover_url":"http://res.cloudinary.com/paperbot/image/upload/re4f6ilqriec3fp2b2tw",
-    "url":"https://camo.githubusercontent.com/645261903d19daf49e2e96f13f960dc91b93f419/68747470733a2f2f646c2e64726f70626f7875736572636f6e74656e742e636f6d2f7370612f637739626a696f66677563757873392f7168683673746e6c2e706e67",
-    "created_at":"2016-04-07T16:36:03.523-03:00",
-    "category_id":null
-  },
-  {
     "id":2299,
     "title":"Google mulling deep Android support for Apple's Swift language - report",
     "description":"Apple's nascent Swift programming language could have a bright future ahead with one of the company's chief competitors, as Google is reportedly considering bring Swift to Android as a \"first-class\" language. Google discussed the idea of bringing Swift into Android with at least two major third-party developers - Facebook and Uber - according to The Next Web.",
@@ -101,15 +74,6 @@
     "category_id":3
   },
   {
-    "id":2271,
-    "title":null,
-    "description":null,
-    "cover_url":"http://res.cloudinary.com/paperbot/image/upload/yootif9osnkgeeizounn",
-    "url":"https://dl.dropboxusercontent.com/spa/cw9bjiofgucuxs9/lbd2pw-o.png",
-    "created_at":"2016-04-07T13:22:52.465-03:00",
-    "category_id":5
-  },
-  {
     "id":2263,
     "title":"RegExr: Learn, Build, \u0026 Test RegEx",
     "description":"RegExr is an online tool to learn, build, \u0026 test Regular Expressions (RegEx / RegExp).",
@@ -117,51 +81,6 @@
     "url":"http://regexr.com/37i6s",
     "created_at":"2016-04-07T12:11:24.343-03:00",
     "category_id":null
-  },
-  {
-    "id":2261,
-    "title":null,
-    "description":null,
-    "cover_url":"http://res.cloudinary.com/paperbot/image/upload/pqc4bo3zx7tox0uqyu2z",
-    "url":"http://g.recordit.co/nq8FOgM3OQ.gif",
-    "created_at":"2016-04-07T11:59:45.356-03:00",
-    "category_id":6
-  },
-  {
-    "id":2248,
-    "title":null,
-    "description":null,
-    "cover_url":"http://res.cloudinary.com/paperbot/image/upload/md1kmmnyugeksjatusbg",
-    "url":"https://dl.dropboxusercontent.com/spa/lie3qpk2oy39vc9/9je83t67.png",
-    "created_at":"2016-04-07T11:39:58.245-03:00",
-    "category_id":5
-  },
-  {
-    "id":2134,
-    "title":null,
-    "description":null,
-    "cover_url":"http://res.cloudinary.com/paperbot/image/upload/sxjtlmylj5cenkd8t3oq",
-    "url":"https://dl.dropboxusercontent.com/spa/cw9bjiofgucuxs9/ipxrcdu7.png",
-    "created_at":"2016-04-06T15:24:21.546-03:00",
-    "category_id":5
-  },
-  {
-    "id":2126,
-    "title":null,
-    "description":null,
-    "cover_url":"http://res.cloudinary.com/paperbot/image/upload/im6mvbrqxxooulrgbng0",
-    "url":"https://dl.dropboxusercontent.com/spa/lie3qpk2oy39vc9/7wsouij8.png",
-    "created_at":"2016-04-06T14:49:05.302-03:00",
-    "category_id":5
-  },
-  {
-    "id":2123,
-    "title":null,
-    "description":null,
-    "cover_url":"http://res.cloudinary.com/paperbot/image/upload/dc2hunsasxf2rvqyci9w",
-    "url":"https://dl.dropboxusercontent.com/spa/lie3qpk2oy39vc9/24rfc7a7.png",
-    "created_at":"2016-04-06T14:46:36.112-03:00",
-    "category_id":5
   },
   {
     "id":2114,
@@ -182,24 +101,6 @@
     "category_id":null
   },
   {
-    "id":2112,
-    "title":null,
-    "description":null,
-    "cover_url":null,
-    "url":"http://app.napster.com",
-    "created_at":"2016-04-06T14:10:04.542-03:00",
-    "category_id":null
-  },
-  {
-    "id":2029,
-    "title":null,
-    "description":null,
-    "cover_url":"http://res.cloudinary.com/paperbot/image/upload/qogqe38weev4rtu5szry",
-    "url":"https://dl.dropboxusercontent.com/spa/lie3qpk2oy39vc9/nrbaiivv.png",
-    "created_at":"2016-04-05T19:21:01.713-03:00",
-    "category_id":5
-  },
-  {
     "id":2028,
     "title":"Skore",
     "description":null,
@@ -218,24 +119,6 @@
     "category_id":null
   },
   {
-    "id":1996,
-    "title":null,
-    "description":null,
-    "cover_url":"http://res.cloudinary.com/paperbot/image/upload/in8l4yp22xuselnoyecn",
-    "url":"http://imguol.com/c/noticias/cc/2015/09/10/cubo-centro-de-empreendedorismo-em-sao-paulo-para-abrigar-e-apoiar-start-ups-tecnologicas-do-itau-unibanco-e-do-fundo-de-capital-redpoint-eventures-1441903936157_956x500.jpg",
-    "created_at":"2016-04-05T15:23:19.669-03:00",
-    "category_id":null
-  },
-  {
-    "id":1995,
-    "title":null,
-    "description":null,
-    "cover_url":"http://res.cloudinary.com/paperbot/image/upload/jtm73vfjkmlqux2aabla",
-    "url":"https://dl.dropboxusercontent.com/spa/lie3qpk2oy39vc9/2rb3rew3.png",
-    "created_at":"2016-04-05T15:17:29.862-03:00",
-    "category_id":5
-  },
-  {
     "id":1994,
     "title":"CUBO",
     "description":"CUBO - Nossa missão é inspirar, educar e conectar pessoas brilhantes para fomentar o empreendedorismo no Brasil",
@@ -245,75 +128,12 @@
     "category_id":null
   },
   {
-    "id":1985,
-    "title":null,
-    "description":null,
-    "cover_url":"http://res.cloudinary.com/paperbot/image/upload/lffv3g520tnb4jlomzww",
-    "url":"http://puu.sh/o7coJ/23b6a599b4.png",
-    "created_at":"2016-04-05T14:43:38.672-03:00",
-    "category_id":6
-  },
-  {
-    "id":1968,
-    "title":null,
-    "description":null,
-    "cover_url":"http://res.cloudinary.com/paperbot/image/upload/z8x8glwef0yo1dzhlp2u",
-    "url":"https://dl.dropboxusercontent.com/spa/lie3qpk2oy39vc9/9igvhkpq.png",
-    "created_at":"2016-04-05T11:02:37.394-03:00",
-    "category_id":5
-  },
-  {
-    "id":1967,
-    "title":null,
-    "description":null,
-    "cover_url":"http://res.cloudinary.com/paperbot/image/upload/f47ays6zmqq8f0tyynia",
-    "url":"https://dl.dropboxusercontent.com/spa/lie3qpk2oy39vc9/a0t5n-az.png",
-    "created_at":"2016-04-05T10:54:28.818-03:00",
-    "category_id":5
-  },
-  {
-    "id":1965,
-    "title":null,
-    "description":null,
-    "cover_url":"http://res.cloudinary.com/paperbot/image/upload/sfyzbgrayg468diam9he",
-    "url":"http://g.recordit.co/kR4GAGxFKw.gif",
-    "created_at":"2016-04-05T10:42:55.168-03:00",
-    "category_id":6
-  },
-  {
-    "id":1964,
-    "title":null,
-    "description":null,
-    "cover_url":"http://res.cloudinary.com/paperbot/image/upload/jqf7vimg9cbirsuryzvv",
-    "url":"http://puu.sh/o6YZd/0b2af876a5.png",
-    "created_at":"2016-04-05T10:41:45.503-03:00",
-    "category_id":6
-  },
-  {
     "id":1915,
     "title":"Message Formatting",
     "description":"All text in Slack uses the same system of escaping: chat messages, direct messages, file comments, etc. These formatting instructions pertain to content posted programmatically to Slack. For instructions on formatting messages within Slack itself, consult this help center article.",
     "cover_url":"http://res.cloudinary.com/paperbot/image/upload/ki11vdmd00veq1f5j0rm",
     "url":"https://api.slack.com/docs/formatting",
     "created_at":"2016-04-04T17:47:55.139-03:00",
-    "category_id":6
-  },
-  {
-    "id":1913,
-    "title":null,
-    "description":null,
-    "cover_url":"http://res.cloudinary.com/paperbot/image/upload/qd5uwxnppntr1j6ubkpj",
-    "url":"https://dl.dropboxusercontent.com/spa/cw9bjiofgucuxs9/1_qm2nyk.png",
-    "created_at":"2016-04-04T17:45:22.516-03:00",
-    "category_id":5
-  },
-  {
-    "id":1911,
-    "title":null,
-    "description":null,
-    "cover_url":"http://res.cloudinary.com/paperbot/image/upload/ejavrwpwqgq93ima4ftj",
-    "url":"http://puu.sh/o6bha/dadeec0faf.png",
-    "created_at":"2016-04-04T17:36:17.317-03:00",
     "category_id":6
   },
   {
@@ -371,30 +191,12 @@
     "category_id":6
   },
   {
-    "id":1842,
-    "title":null,
-    "description":null,
-    "cover_url":"http://res.cloudinary.com/paperbot/image/upload/e4twqcoehqopzefzvecn",
-    "url":"https://dl.dropboxusercontent.com/spa/lie3qpk2oy39vc9/c3mf3xqg.png",
-    "created_at":"2016-04-04T10:20:07.660-03:00",
-    "category_id":5
-  },
-  {
     "id":1712,
     "title":"Squash your commits",
     "description":"Git's flexibility allows you to shape your workflow however you like. The organization of your git history is just one of the choices to make, but up until now the merge button on GitHub only created merge commits, resulting in a style of history that didn't necessarily match your own workflow.",
     "cover_url":"http://res.cloudinary.com/paperbot/image/upload/rzcjhogpz4yzelhdeymc",
     "url":"https://github.com/blog/2141-squash-your-commits",
     "created_at":"2016-04-01T16:31:07.174-03:00",
-    "category_id":6
-  },
-  {
-    "id":1711,
-    "title":null,
-    "description":null,
-    "cover_url":"http://res.cloudinary.com/paperbot/image/upload/uwbyrqcncgzumwpjx1jb",
-    "url":"http://g.recordit.co/BleMMEyi5O.gif",
-    "created_at":"2016-04-01T16:21:54.068-03:00",
     "category_id":6
   },
   {
@@ -407,60 +209,6 @@
     "category_id":null
   },
   {
-    "id":1698,
-    "title":null,
-    "description":null,
-    "cover_url":"http://res.cloudinary.com/paperbot/image/upload/ej9r8bec4xvxp600qviz",
-    "url":"http://paesalianca.com.br/images/page3_img9.jpg",
-    "created_at":"2016-04-01T15:00:51.387-03:00",
-    "category_id":null
-  },
-  {
-    "id":1690,
-    "title":null,
-    "description":null,
-    "cover_url":"http://res.cloudinary.com/paperbot/image/upload/cmtygbwcmq3hz941vslo",
-    "url":"https://dl.dropboxusercontent.com/spa/lie3qpk2oy39vc9/u5hteo6w.png",
-    "created_at":"2016-04-01T14:34:43.839-03:00",
-    "category_id":5
-  },
-  {
-    "id":1684,
-    "title":null,
-    "description":null,
-    "cover_url":"http://res.cloudinary.com/paperbot/image/upload/fo2jpgzp5refrrmmf0ax",
-    "url":"https://dl.dropboxusercontent.com/spa/lie3qpk2oy39vc9/e54lezkf.png",
-    "created_at":"2016-04-01T13:25:02.468-03:00",
-    "category_id":5
-  },
-  {
-    "id":1666,
-    "title":null,
-    "description":null,
-    "cover_url":"http://res.cloudinary.com/paperbot/image/upload/stuliujzj65r4pwodz5i",
-    "url":"https://dl.dropboxusercontent.com/spa/cw9bjiofgucuxs9/xh6ii1rn.png",
-    "created_at":"2016-04-01T10:17:12.979-03:00",
-    "category_id":5
-  },
-  {
-    "id":1665,
-    "title":null,
-    "description":null,
-    "cover_url":"http://res.cloudinary.com/paperbot/image/upload/lwqx3wgn4qbpvkmwi8md",
-    "url":"https://dl.dropboxusercontent.com/spa/cw9bjiofgucuxs9/k_w9ecc0.png",
-    "created_at":"2016-04-01T10:17:03.584-03:00",
-    "category_id":5
-  },
-  {
-    "id":1569,
-    "title":null,
-    "description":null,
-    "cover_url":"http://res.cloudinary.com/paperbot/image/upload/oaxxy1fsf64ngqnwzbuu",
-    "url":"https://dl.dropboxusercontent.com/spa/cw9bjiofgucuxs9/jblnhg2a.png",
-    "created_at":"2016-03-31T15:10:59.361-03:00",
-    "category_id":5
-  },
-  {
     "id":1563,
     "title":"Login | Sentry",
     "description":null,
@@ -468,24 +216,6 @@
     "url":"https://app.getsentry.com/skore/skore-frontend/issues/103099278/events/?cursor=1455805566000:0:0",
     "created_at":"2016-03-31T14:35:55.045-03:00",
     "category_id":6
-  },
-  {
-    "id":1562,
-    "title":null,
-    "description":null,
-    "cover_url":"http://res.cloudinary.com/paperbot/image/upload/ndvbmg8xw6irptou6xvw",
-    "url":"https://dl.dropboxusercontent.com/spa/cw9bjiofgucuxs9/ziu3abqh.png",
-    "created_at":"2016-03-31T14:30:11.514-03:00",
-    "category_id":5
-  },
-  {
-    "id":1561,
-    "title":null,
-    "description":null,
-    "cover_url":"http://res.cloudinary.com/paperbot/image/upload/dwwi4b6hbfz6j0901lh8",
-    "url":"https://dl.dropboxusercontent.com/spa/cw9bjiofgucuxs9/jh0fsv0e.png",
-    "created_at":"2016-03-31T14:29:18.848-03:00",
-    "category_id":5
   },
   {
     "id":1474,
@@ -504,42 +234,6 @@
     "url":"https://dev.botframework.com",
     "created_at":"2016-03-30T18:16:06.889-03:00",
     "category_id":null
-  },
-  {
-    "id":1469,
-    "title":null,
-    "description":null,
-    "cover_url":"http://res.cloudinary.com/paperbot/image/upload/veiqojzv6ngx8t7urjb1",
-    "url":"https://dl.dropboxusercontent.com/spa/lie3qpk2oy39vc9/8872c9vg.png",
-    "created_at":"2016-03-30T17:45:31.289-03:00",
-    "category_id":5
-  },
-  {
-    "id":1459,
-    "title":null,
-    "description":null,
-    "cover_url":"http://res.cloudinary.com/paperbot/image/upload/cbbjotx0idvcgc5unuku",
-    "url":"https://dl.dropboxusercontent.com/spa/lie3qpk2oy39vc9/gnhw1n13.png",
-    "created_at":"2016-03-30T17:13:01.284-03:00",
-    "category_id":5
-  },
-  {
-    "id":1448,
-    "title":null,
-    "description":null,
-    "cover_url":"http://res.cloudinary.com/paperbot/image/upload/lk57mvrt8atoijimwtuf",
-    "url":"http://puu.sh/nZMd8/660e7fedbb.png",
-    "created_at":"2016-03-30T16:27:14.495-03:00",
-    "category_id":6
-  },
-  {
-    "id":1449,
-    "title":null,
-    "description":null,
-    "cover_url":"http://res.cloudinary.com/paperbot/image/upload/xvvlb58coaxrbj7b9qpg",
-    "url":"http://puu.sh/nZM6b/023741d073.png",
-    "created_at":"2016-03-30T16:27:14.494-03:00",
-    "category_id":6
   },
   {
     "id":1433,
@@ -576,15 +270,6 @@
     "url":"https://tadaotest.slack.com/admin",
     "created_at":"2016-03-30T10:12:52.420-03:00",
     "category_id":null
-  },
-  {
-    "id":1396,
-    "title":null,
-    "description":null,
-    "cover_url":"http://res.cloudinary.com/paperbot/image/upload/a0wxe3ydl83vm0xdymx8",
-    "url":"https://dl.dropboxusercontent.com/spa/cw9bjiofgucuxs9/8prq0myz.png",
-    "created_at":"2016-03-30T09:53:03.247-03:00",
-    "category_id":5
   },
   {
     "id":1343,
@@ -648,15 +333,6 @@
     "url":"http://skore.skore.io/boards/1491-conteudos-extras",
     "created_at":"2016-03-29T14:38:18.124-03:00",
     "category_id":6
-  },
-  {
-    "id":1292,
-    "title":null,
-    "description":null,
-    "cover_url":"http://res.cloudinary.com/paperbot/image/upload/jexf4xfvt2esxtu3fycj",
-    "url":"https://dl.dropboxusercontent.com/spa/lie3qpk2oy39vc9/iqg_beob.png",
-    "created_at":"2016-03-29T14:35:10.685-03:00",
-    "category_id":5
   },
   {
     "id":1252,
@@ -785,24 +461,6 @@
     "category_id":8
   },
   {
-    "id":861,
-    "title":null,
-    "description":null,
-    "cover_url":"http://res.cloudinary.com/paperbot/image/upload/berzsrzwkjxzclu6nsa5",
-    "url":"http://i.imgur.com/wAdwGGS.jpg",
-    "created_at":"2016-03-24T18:28:14.156-03:00",
-    "category_id":5
-  },
-  {
-    "id":860,
-    "title":null,
-    "description":null,
-    "cover_url":"http://res.cloudinary.com/paperbot/image/upload/tgpppgube8dadl9rox9n",
-    "url":"http://i.imgur.com/ApTAkDm.gif",
-    "created_at":"2016-03-24T18:27:25.742-03:00",
-    "category_id":5
-  },
-  {
     "id":858,
     "title":"Skore",
     "description":null,
@@ -810,15 +468,6 @@
     "url":"http://adrianotadaoqa.staging.skore.io",
     "created_at":"2016-03-24T18:08:34.619-03:00",
     "category_id":6
-  },
-  {
-    "id":849,
-    "title":null,
-    "description":null,
-    "cover_url":"http://res.cloudinary.com/paperbot/image/upload/cubr2pnamwxhdpnwv3zy",
-    "url":"http://super.abril.com.br/blogs/cultura/files/2012/10/salsicha.jpg",
-    "created_at":"2016-03-24T17:08:17.258-03:00",
-    "category_id":null
   },
   {
     "id":840,
@@ -837,15 +486,6 @@
     "url":"https://skoreio.slack.com/archives/dev/p1458840253002469",
     "created_at":"2016-03-24T14:24:24.467-03:00",
     "category_id":6
-  },
-  {
-    "id":804,
-    "title":null,
-    "description":null,
-    "cover_url":"http://res.cloudinary.com/paperbot/image/upload/gw7dnrqnxfdqdy96xecb",
-    "url":"http://old-computers.com/museum/photos/IBM_PCjr_System_1.jpg",
-    "created_at":"2016-03-24T14:08:09.808-03:00",
-    "category_id":3
   },
   {
     "id":803,
@@ -956,15 +596,6 @@
     "category_id":2
   },
   {
-    "id":494,
-    "title":null,
-    "description":null,
-    "cover_url":"http://res.cloudinary.com/paperbot/image/upload/nyrxwqieswwvydzvaiet",
-    "url":"http://paulcheksblog.com/wp-content/uploads/2012/10/Energy-Drinks.jpg",
-    "created_at":"2016-03-22T14:29:16.134-03:00",
-    "category_id":3
-  },
-  {
     "id":461,
     "title":"Join this live Google Hangouts video call",
     "description":"Click to join now. If the call is over, invite your friends to a new one or start a chat with text, photos and emoji.",
@@ -972,15 +603,6 @@
     "url":"https://plus.google.com/hangouts/_/skore.io/bot",
     "created_at":"2016-03-22T10:11:35.010-03:00",
     "category_id":8
-  },
-  {
-    "id":399,
-    "title":null,
-    "description":null,
-    "cover_url":"http://res.cloudinary.com/paperbot/image/upload/zhawoulcz8dvd0pzy5wx",
-    "url":"http://g.recordit.co/BbNS8Hf4pP.gif",
-    "created_at":"2016-03-21T15:33:39.593-03:00",
-    "category_id":6
   },
   {
     "id":398,
@@ -1073,15 +695,6 @@
     "category_id":6
   },
   {
-    "id":330,
-    "title":null,
-    "description":null,
-    "cover_url":"http://res.cloudinary.com/paperbot/image/upload/uqxbzismht3epqiqwokz",
-    "url":"http://puu.sh/nLc60/f14e6e64a1.png",
-    "created_at":"2016-03-18T15:13:03.574-03:00",
-    "category_id":6
-  },
-  {
     "id":327,
     "title":"The PaperBot",
     "description":"A daily digest with all the cool stuff your team posts on Slack",
@@ -1160,24 +773,6 @@
     "cover_url":null,
     "url":"https://skoreio.slack.com/archives/cafeteria/p1458155602000106",
     "created_at":"2016-03-16T16:16:42.844-03:00",
-    "category_id":6
-  },
-  {
-    "id":294,
-    "title":null,
-    "description":null,
-    "cover_url":"http://res.cloudinary.com/paperbot/image/upload/e14onaf9bhqm4y3hu0xv",
-    "url":"http://puu.sh/nITnv/17bc16dca5.png",
-    "created_at":"2016-03-16T16:06:53.285-03:00",
-    "category_id":6
-  },
-  {
-    "id":293,
-    "title":null,
-    "description":null,
-    "cover_url":"http://res.cloudinary.com/paperbot/image/upload/abi9em4xjwbkt3mljod5",
-    "url":"http://g.recordit.co/l6Hph5LdFS.gif",
-    "created_at":"2016-03-16T15:53:31.538-03:00",
     "category_id":6
   },
   {
@@ -1352,15 +947,6 @@
     "category_id":6
   },
   {
-    "id":256,
-    "title":null,
-    "description":null,
-    "cover_url":"http://res.cloudinary.com/paperbot/image/upload/muwqrcqewi84svgobviz",
-    "url":"https://fbcdn-photos-b-a.akamaihd.net/hphotos-ak-xpt1/t31.0-0/p600x600/12828292_972358356145559_9150729019478167570_o.jpg",
-    "created_at":"2016-03-11T17:22:20.069-03:00",
-    "category_id":5
-  },
-  {
     "id":252,
     "title":"Skore",
     "description":null,
@@ -1385,15 +971,6 @@
     "cover_url":null,
     "url":"https://app.getsentry.com/skore/paperbot",
     "created_at":"2016-03-11T15:29:59.112-03:00",
-    "category_id":6
-  },
-  {
-    "id":246,
-    "title":null,
-    "description":null,
-    "cover_url":"http://res.cloudinary.com/paperbot/image/upload/h8yikans17xxhcg7hb1a",
-    "url":"http://puu.sh/nCVWO/4f49383321.png",
-    "created_at":"2016-03-11T15:28:50.992-03:00",
     "category_id":6
   },
   {
@@ -1433,15 +1010,6 @@
     "category_id":6
   },
   {
-    "id":236,
-    "title":null,
-    "description":null,
-    "cover_url":"http://res.cloudinary.com/paperbot/image/upload/bdavo6lqkrvlgvgyalzt",
-    "url":"http://g.recordit.co/YQpHPcXipK.gif",
-    "created_at":"2016-03-11T09:40:06.788-03:00",
-    "category_id":6
-  },
-  {
     "id":235,
     "title":"Fullscreen Overlay Styles \u0026 Effects | Demo 5",
     "description":"Fullscreen Overlay Styles \u0026 Effects",
@@ -1469,15 +1037,6 @@
     "category_id":3
   },
   {
-    "id":232,
-    "title":null,
-    "description":null,
-    "cover_url":"http://res.cloudinary.com/paperbot/image/upload/lk6gqfswmv9ujdfz86rq",
-    "url":"http://itsadeliverything.com/wordpress/images/Glad-Sad-Mad-Retrospective.png",
-    "created_at":"2016-03-10T16:29:05.772-03:00",
-    "category_id":3
-  },
-  {
     "id":231,
     "title":"Google Docs - create and edit documents online, for free.",
     "description":"Create a new document and edit with others at the same time -- from your computer, phone or tablet. Get stuff done with or without an internet connection. Use Docs to edit Word files. Free from Google.",
@@ -1485,15 +1044,6 @@
     "url":"https://docs.google.com/document/d/1QGToFi-fJJpCv_iJA9aij0n6QxlWVSlQweC_z3EnBZ8/edit",
     "created_at":"2016-03-10T16:11:41.146-03:00",
     "category_id":5
-  },
-  {
-    "id":230,
-    "title":null,
-    "description":null,
-    "cover_url":"http://res.cloudinary.com/paperbot/image/upload/bbpynqnbuhmdbg8o9sxe",
-    "url":"http://jcnet.com.br/banco_imagem/images/policia/fosforo.jpg",
-    "created_at":"2016-03-10T15:36:06.732-03:00",
-    "category_id":2
   },
   {
     "id":226,
@@ -1694,24 +1244,6 @@
     "category_id":6
   },
   {
-    "id":194,
-    "title":null,
-    "description":null,
-    "cover_url":"http://res.cloudinary.com/paperbot/image/upload/ncawxyyu0nn1qj1usqdt",
-    "url":"http://puu.sh/nzzPs/089c6a741d.png",
-    "created_at":"2016-03-08T17:59:23.351-03:00",
-    "category_id":6
-  },
-  {
-    "id":193,
-    "title":null,
-    "description":null,
-    "cover_url":"http://res.cloudinary.com/paperbot/image/upload/dzhaengeikhlj4zmrh1j",
-    "url":"http://puu.sh/nzytm/306ecb308b.png",
-    "created_at":"2016-03-08T17:40:49.031-03:00",
-    "category_id":6
-  },
-  {
     "id":192,
     "title":"Smashing Magazine on Twitter",
     "description":"The Trello team has open source a public repo for all CSS files and scripts to manage CSS. Worth a look. http://tech.trello.com/trellisheets-how-we-spin-up-css-for-trello-sites-with-ease/ ...",
@@ -1746,15 +1278,6 @@
     "url":"https://plus.google.com/hangouts/_/skore.io/ettore",
     "created_at":"2016-03-07T14:00:06.764-03:00",
     "category_id":8
-  },
-  {
-    "id":184,
-    "title":null,
-    "description":null,
-    "cover_url":"http://res.cloudinary.com/paperbot/image/upload/z2gvteh5nmsm0nmmtxmy",
-    "url":"http://bertioga.sp.gov.br/wp-content/uploads/2015/09/Mario-Sergio-Cortella1-divulgacao.jpg",
-    "created_at":"2016-03-07T10:22:36.110-03:00",
-    "category_id":3
   },
   {
     "id":183,
@@ -1793,24 +1316,6 @@
     "category_id":6
   },
   {
-    "id":148,
-    "title":null,
-    "description":null,
-    "cover_url":"http://res.cloudinary.com/paperbot/image/upload/z3qkng3svqcvaqaetlmc",
-    "url":"https://dl.dropboxusercontent.com/spa/cw9bjiofgucuxs9/2g10wcb-.png",
-    "created_at":"2016-03-04T14:54:42.976-03:00",
-    "category_id":5
-  },
-  {
-    "id":147,
-    "title":null,
-    "description":null,
-    "cover_url":"http://res.cloudinary.com/paperbot/image/upload/djhfqvvuk8khwumcwl8x",
-    "url":"https://dl.dropboxusercontent.com/spa/cw9bjiofgucuxs9/a8790ayp.png",
-    "created_at":"2016-03-04T14:52:59.381-03:00",
-    "category_id":5
-  },
-  {
     "id":146,
     "title":"Native Modules - React Native | A framework for building native apps using React",
     "description":"A framework for building native apps using React",
@@ -1838,33 +1343,6 @@
     "category_id":6
   },
   {
-    "id":141,
-    "title":null,
-    "description":null,
-    "cover_url":"http://res.cloudinary.com/paperbot/image/upload/wm9wn6yes8tgwbz1rwou",
-    "url":"http://jamesparton.info/wp-content/uploads/2013/03/shipit-300x275.png",
-    "created_at":"2016-03-04T11:13:51.854-03:00",
-    "category_id":3
-  },
-  {
-    "id":140,
-    "title":null,
-    "description":null,
-    "cover_url":"http://res.cloudinary.com/paperbot/image/upload/io8ac4zmu8htsfqptoc8",
-    "url":"https://dl.dropboxusercontent.com/spa/cw9bjiofgucuxs9/1o5zk8pm.png",
-    "created_at":"2016-03-04T10:38:22.280-03:00",
-    "category_id":5
-  },
-  {
-    "id":139,
-    "title":null,
-    "description":null,
-    "cover_url":"http://res.cloudinary.com/paperbot/image/upload/nxghstjauuefnduwexn9",
-    "url":"https://dl.dropboxusercontent.com/spa/cw9bjiofgucuxs9/7-bzvc9w.png",
-    "created_at":"2016-03-04T10:38:22.269-03:00",
-    "category_id":5
-  },
-  {
     "id":138,
     "title":"A Complete Guide to Flexbox | CSS-Tricks",
     "description":"The Flexbox Layout (Flexible Box) module (currently a W3C Last Call Working Draft) aims at providing a more efficient way to lay out, align and distribute space among items in a container, even when their size is unknown and/or dynamic (thus the word \"flex\").",
@@ -1874,42 +1352,6 @@
     "category_id":3
   },
   {
-    "id":137,
-    "title":null,
-    "description":null,
-    "cover_url":"http://res.cloudinary.com/paperbot/image/upload/t4sgx4hsuggrurorpuke",
-    "url":"https://dl.dropboxusercontent.com/spa/lie3qpk2oy39vc9/2bgit4j6.png",
-    "created_at":"2016-03-03T22:45:02.610-03:00",
-    "category_id":5
-  },
-  {
-    "id":136,
-    "title":null,
-    "description":null,
-    "cover_url":"http://res.cloudinary.com/paperbot/image/upload/red0ysuijwziuhlka9my",
-    "url":"https://dl.dropboxusercontent.com/spa/lie3qpk2oy39vc9/i2hzq1my.png",
-    "created_at":"2016-03-03T22:31:17.528-03:00",
-    "category_id":5
-  },
-  {
-    "id":135,
-    "title":null,
-    "description":null,
-    "cover_url":"http://res.cloudinary.com/paperbot/image/upload/w7kulaxwa3gs9ppbqegq",
-    "url":"https://dl.dropboxusercontent.com/spa/lie3qpk2oy39vc9/kgohydaw.png",
-    "created_at":"2016-03-03T22:20:21.600-03:00",
-    "category_id":5
-  },
-  {
-    "id":134,
-    "title":null,
-    "description":null,
-    "cover_url":"http://res.cloudinary.com/paperbot/image/upload/vspqtehhcgdx0zmjjpx7",
-    "url":"https://dl.dropboxusercontent.com/spa/lie3qpk2oy39vc9/nt-py71f.png",
-    "created_at":"2016-03-03T22:16:13.946-03:00",
-    "category_id":5
-  },
-  {
     "id":133,
     "title":"alexandrebini/hello-react-native",
     "description":"Contribute to hello-react-native development by creating an account on GitHub.",
@@ -1917,15 +1359,6 @@
     "url":"https://github.com/alexandrebini/hello-react-native",
     "created_at":"2016-03-03T22:00:56.753-03:00",
     "category_id":6
-  },
-  {
-    "id":130,
-    "title":null,
-    "description":null,
-    "cover_url":"http://res.cloudinary.com/paperbot/image/upload/fo2rwtu3rpgm6fszkhpt",
-    "url":"http://telecine.img.estaticos.tv.br/ckeditor/2015/03/09/ImagemRobos619x400.png",
-    "created_at":"2016-03-03T17:58:40.827-03:00",
-    "category_id":5
   },
   {
     "id":129,
@@ -1943,15 +1376,6 @@
     "cover_url":null,
     "url":"https://google.com.br/url?amp;bvm=bv.115339255,d.Y2I\u0026amp;cad=rja\u0026amp;cd=\u0026amp;esrc=s\u0026amp;psig=AFQjCNFCTfEfcVyvNpYfWOteetF3RNxtHA\u0026amp;q=\u0026amp;rct=j\u0026amp;source=images\u0026amp;uact=8\u0026amp;url=http://previews.123rf.com/images/pixelery/pixelery1506/pixelery150600050/41184910-Family-of-old-robots-cyclops-help-old-robot-with-a-crutch-assisted-by-relatives-Stock-Photo.jpg\u0026amp;ust=1457124264129627\u0026amp;ved=0ahUKEwiHoPWSsaXLAhXKiJAKHV9mB2QQjBwIBA\u0026sa=i",
     "created_at":"2016-03-03T17:45:11.762-03:00",
-    "category_id":3
-  },
-  {
-    "id":127,
-    "title":null,
-    "description":null,
-    "cover_url":"http://res.cloudinary.com/paperbot/image/upload/nj0xafxlpca45qmlgmig",
-    "url":"http://niemanlab.org/images/paperboy-cover1.jpg",
-    "created_at":"2016-03-03T17:19:05.953-03:00",
     "category_id":3
   },
   {
@@ -1982,15 +1406,6 @@
     "category_id":6
   },
   {
-    "id":123,
-    "title":null,
-    "description":null,
-    "cover_url":"http://res.cloudinary.com/paperbot/image/upload/dwj5kknacwggxhpzeupi",
-    "url":"https://dl.dropboxusercontent.com/spa/lie3qpk2oy39vc9/j66zp1dy.png",
-    "created_at":"2016-03-03T15:08:58.436-03:00",
-    "category_id":5
-  },
-  {
     "id":121,
     "title":"Google Sheets - create and edit spreadsheets online, for free.",
     "description":"Create a new spreadsheet and edit with others at the same time -- from your computer, phone or tablet. Get stuff done with or without an internet connection. Use Sheets to edit Excel files. Free from Google.",
@@ -1998,15 +1413,6 @@
     "url":"https://docs.google.com/spreadsheets/d/1M2Kjq-PVWvhyS2Sa-BN4RMzssU_AjCMS9YB49oT1tZc/edit",
     "created_at":"2016-03-03T15:02:25.772-03:00",
     "category_id":5
-  },
-  {
-    "id":118,
-    "title":null,
-    "description":null,
-    "cover_url":"http://res.cloudinary.com/paperbot/image/upload/awgv7etcuzt7lwktlmjq",
-    "url":"http://static1.squarespace.com/static/530becede4b093256168fba5/t/53aa1c55e4b0dff34d727090/1403657301758",
-    "created_at":"2016-03-03T14:29:02.033-03:00",
-    "category_id":3
   },
   {
     "id":117,
@@ -2018,24 +1424,6 @@
     "category_id":6
   },
   {
-    "id":116,
-    "title":null,
-    "description":null,
-    "cover_url":"http://res.cloudinary.com/paperbot/image/upload/hqfa08e0jonntoy3pplh",
-    "url":"https://dl.dropboxusercontent.com/spa/cw9bjiofgucuxs9/9rfk-ov1.png",
-    "created_at":"2016-03-03T13:52:59.772-03:00",
-    "category_id":5
-  },
-  {
-    "id":114,
-    "title":null,
-    "description":null,
-    "cover_url":"http://res.cloudinary.com/paperbot/image/upload/wfrmw8umsks7ylsrsbmo",
-    "url":"https://dl.dropboxusercontent.com/spa/cw9bjiofgucuxs9/lvty--zt.png",
-    "created_at":"2016-03-03T12:21:58.780-03:00",
-    "category_id":5
-  },
-  {
     "id":113,
     "title":"Slack",
     "description":null,
@@ -2043,24 +1431,6 @@
     "url":"https://skoreio.slack.com/archives/dev/p1457018422000908",
     "created_at":"2016-03-03T12:21:12.913-03:00",
     "category_id":6
-  },
-  {
-    "id":112,
-    "title":null,
-    "description":null,
-    "cover_url":"http://res.cloudinary.com/paperbot/image/upload/obzczivrpwakqlbeg7em",
-    "url":"https://dl.dropboxusercontent.com/spa/cw9bjiofgucuxs9/1ve--fad.png",
-    "created_at":"2016-03-03T12:19:13.831-03:00",
-    "category_id":5
-  },
-  {
-    "id":111,
-    "title":null,
-    "description":null,
-    "cover_url":"http://res.cloudinary.com/paperbot/image/upload/ymcdfokdb3qxrhul7v5u",
-    "url":"https://dl.dropboxusercontent.com/spa/cw9bjiofgucuxs9/wco7me3z.png",
-    "created_at":"2016-03-03T12:19:13.821-03:00",
-    "category_id":5
   },
   {
     "id":108,
@@ -2072,24 +1442,6 @@
     "category_id":6
   },
   {
-    "id":104,
-    "title":null,
-    "description":null,
-    "cover_url":"http://res.cloudinary.com/paperbot/image/upload/srl5u7nmlvafkjiy1ns7",
-    "url":"https://dl.dropboxusercontent.com/spa/lie3qpk2oy39vc9/5zsmjs8-.png",
-    "created_at":"2016-03-03T10:06:40.763-03:00",
-    "category_id":5
-  },
-  {
-    "id":101,
-    "title":null,
-    "description":null,
-    "cover_url":"http://res.cloudinary.com/paperbot/image/upload/lttjbbei0ctuy3qjhqc3",
-    "url":"https://dl.dropboxusercontent.com/spa/cw9bjiofgucuxs9/s3m62rj0.png",
-    "created_at":"2016-03-02T18:36:08.010-03:00",
-    "category_id":5
-  },
-  {
     "id":96,
     "title":"In 1963, Albert Heineken created a beer bottle...",
     "description":"In 1963, Albert Heineken created a beer bottle that also functioned as a brick to build sustainable housing in impoverished countries. Source",
@@ -2097,15 +1449,6 @@
     "url":"http://didyouknowblog.com/post/135271866892/in-1963-albert-heineken-created-a-beer-bottle",
     "created_at":"2016-03-02T16:23:19.084-03:00",
     "category_id":7
-  },
-  {
-    "id":93,
-    "title":null,
-    "description":null,
-    "cover_url":"http://res.cloudinary.com/paperbot/image/upload/tlo2jbwupa8fpmveepgn",
-    "url":"https://dl.dropboxusercontent.com/spa/cw9bjiofgucuxs9/gn975kn6.png",
-    "created_at":"2016-03-02T15:17:38.484-03:00",
-    "category_id":5
   },
   {
     "id":92,
@@ -2162,24 +1505,6 @@
     "category_id":6
   },
   {
-    "id":85,
-    "title":null,
-    "description":null,
-    "cover_url":"http://res.cloudinary.com/paperbot/image/upload/tc8at49xker2jaekurrd",
-    "url":"https://media.giphy.com/media/t1i8KZ7momVs4/giphy.gif",
-    "created_at":"2016-03-02T11:42:12.556-03:00",
-    "category_id":7
-  },
-  {
-    "id":84,
-    "title":null,
-    "description":null,
-    "cover_url":"http://res.cloudinary.com/paperbot/image/upload/jgjwm5au9qcabdeu5n8u",
-    "url":"https://dl.dropboxusercontent.com/spa/lie3qpk2oy39vc9/3jhjxyn0.png",
-    "created_at":"2016-03-02T11:17:58.671-03:00",
-    "category_id":5
-  },
-  {
     "id":83,
     "title":"Marker - Take screenshots right from your browser, add annotations and send them to your favorite apps.",
     "description":"Tired of having a ton of screenshots laying around your desktop? Take screenshots, add annotations and send them directly to Trello, Slack \u0026 Github with Marker",
@@ -2207,15 +1532,6 @@
     "category_id":6
   },
   {
-    "id":80,
-    "title":null,
-    "description":null,
-    "cover_url":"http://res.cloudinary.com/paperbot/image/upload/ojerjpizjgnaepug5d6t",
-    "url":"https://dl.dropboxusercontent.com/spa/cw9bjiofgucuxs9/oj8_smj-.png",
-    "created_at":"2016-03-01T17:41:12.102-03:00",
-    "category_id":5
-  },
-  {
     "id":79,
     "title":"Fetching Data",
     "description":"A library for managing data within JavaScript applications. Alt is a pure flux implementation that is small, terse, well tested, extremely flexible, and forward thinking.",
@@ -2223,15 +1539,6 @@
     "url":"http://alt.js.org/guide/async",
     "created_at":"2016-03-01T17:18:13.775-03:00",
     "category_id":6
-  },
-  {
-    "id":78,
-    "title":null,
-    "description":null,
-    "cover_url":"http://res.cloudinary.com/paperbot/image/upload/ajtxtoo1tcoyv2tvjnae",
-    "url":"https://dl.dropboxusercontent.com/spa/cw9bjiofgucuxs9/9hm_n93l.png",
-    "created_at":"2016-03-01T17:14:52.555-03:00",
-    "category_id":5
   },
   {
     "id":76,
@@ -2243,15 +1550,6 @@
     "category_id":6
   },
   {
-    "id":75,
-    "title":null,
-    "description":null,
-    "cover_url":"http://res.cloudinary.com/paperbot/image/upload/hcpmyknyd3pwfee3ffjr",
-    "url":"http://jogodobicho.net/img/tabela-de-resultados.jpg",
-    "created_at":"2016-03-01T14:40:30.141-03:00",
-    "category_id":3
-  },
-  {
     "id":74,
     "title":"Join this live Google Hangouts video call",
     "description":"Click to join now. If the call is over, invite your friends to a new one or start a chat with text, photos and emoji.",
@@ -2261,33 +1559,6 @@
     "category_id":8
   },
   {
-    "id":72,
-    "title":null,
-    "description":null,
-    "cover_url":"http://res.cloudinary.com/paperbot/image/upload/reskufdstteferdu3lsa",
-    "url":"https://dl.dropboxusercontent.com/spa/cw9bjiofgucuxs9/13lfuy6i.png",
-    "created_at":"2016-03-01T12:13:25.918-03:00",
-    "category_id":5
-  },
-  {
-    "id":71,
-    "title":null,
-    "description":null,
-    "cover_url":"http://res.cloudinary.com/paperbot/image/upload/lpxx40yqgmnit3njgxrw",
-    "url":"https://dl.dropboxusercontent.com/spa/lie3qpk2oy39vc9/q5o_nve8.png",
-    "created_at":"2016-03-01T12:05:16.424-03:00",
-    "category_id":5
-  },
-  {
-    "id":70,
-    "title":null,
-    "description":null,
-    "cover_url":"http://res.cloudinary.com/paperbot/image/upload/jrsae2jshqmepatjzijk",
-    "url":"https://dl.dropboxusercontent.com/spa/cw9bjiofgucuxs9/r-cxt_tw.png",
-    "created_at":"2016-03-01T12:04:12.318-03:00",
-    "category_id":5
-  },
-  {
     "id":69,
     "title":"Trello",
     "description":"Organize anything, together. Trello is a collaboration tool that organizes your projects into boards. In one glance, know what's being worked on, who's working on what, and where something is in a process.",
@@ -2295,15 +1566,6 @@
     "url":"https://trello.com/c/erejf3k9/2053-0-5-faber-castell-gerar-relatorio-de-uso",
     "created_at":"2016-03-01T11:35:56.810-03:00",
     "category_id":6
-  },
-  {
-    "id":68,
-    "title":null,
-    "description":null,
-    "cover_url":"http://res.cloudinary.com/paperbot/image/upload/iaivw330moi3bptdykph",
-    "url":"https://dl.dropboxusercontent.com/spa/lie3qpk2oy39vc9/bs26c4w8.png",
-    "created_at":"2016-03-01T11:19:40.459-03:00",
-    "category_id":5
   },
   {
     "id":67,
@@ -2331,24 +1593,6 @@
     "url":"http://webdesignledger.com/adobe-fuse-cc-preview-released",
     "created_at":"2016-02-29T17:39:54.935-03:00",
     "category_id":3
-  },
-  {
-    "id":61,
-    "title":null,
-    "description":null,
-    "cover_url":"http://res.cloudinary.com/paperbot/image/upload/jgwhkh3kfjxoupnoriph",
-    "url":"https://dl.dropboxusercontent.com/spa/cw9bjiofgucuxs9/7j9dbbxt.png",
-    "created_at":"2016-02-29T17:01:47.664-03:00",
-    "category_id":5
-  },
-  {
-    "id":59,
-    "title":null,
-    "description":null,
-    "cover_url":"http://res.cloudinary.com/paperbot/image/upload/kr2e9pmy3cjgiymr5dwk",
-    "url":"https://dl.dropboxusercontent.com/spa/cw9bjiofgucuxs9/3x5tonse.png",
-    "created_at":"2016-02-29T15:05:11.663-03:00",
-    "category_id":5
   },
   {
     "id":57,
@@ -2396,15 +1640,6 @@
     "category_id":6
   },
   {
-    "id":53,
-    "title":null,
-    "description":null,
-    "cover_url":"http://res.cloudinary.com/paperbot/image/upload/ugqg2mgqtolt8kcolhhd",
-    "url":"https://dl.dropboxusercontent.com/spa/cw9bjiofgucuxs9/ir6ccflt.png",
-    "created_at":"2016-02-29T09:03:24.057-03:00",
-    "category_id":5
-  },
-  {
     "id":52,
     "title":"Graphics designer's everyday stress routine...",
     "description":"Graphics designer's everyday stress routine... - 9GAG has the best funny pics, GIFs, videos, memes, cute, wtf, geeky, cosplay photos on the web. We are your best source of happiness and awesomeness.",
@@ -2430,33 +1665,6 @@
     "url":"https://skoreio.slack.com/archives/D0P9PT2KH/p1456523897000002",
     "created_at":"2016-02-26T18:58:35.705-03:00",
     "category_id":6
-  },
-  {
-    "id":49,
-    "title":null,
-    "description":null,
-    "cover_url":"http://res.cloudinary.com/paperbot/image/upload/blhb9nr7ctz0heylu2rp",
-    "url":"https://i.imgur.com/XXVTToK.jpg",
-    "created_at":"2016-02-26T18:36:34.664-03:00",
-    "category_id":5
-  },
-  {
-    "id":48,
-    "title":null,
-    "description":null,
-    "cover_url":"http://res.cloudinary.com/paperbot/image/upload/nwodbr6udlwgqg6bwm5s",
-    "url":"https://dl.dropboxusercontent.com/spa/cw9bjiofgucuxs9/u0hrvp83.png",
-    "created_at":"2016-02-26T18:16:36.715-03:00",
-    "category_id":5
-  },
-  {
-    "id":47,
-    "title":null,
-    "description":null,
-    "cover_url":"http://res.cloudinary.com/paperbot/image/upload/oo2g3nkfrtv6nskclxrv",
-    "url":"https://dl.dropboxusercontent.com/spa/cw9bjiofgucuxs9/sk7666kx.png",
-    "created_at":"2016-02-26T18:16:21.714-03:00",
-    "category_id":5
   },
   {
     "id":46,
